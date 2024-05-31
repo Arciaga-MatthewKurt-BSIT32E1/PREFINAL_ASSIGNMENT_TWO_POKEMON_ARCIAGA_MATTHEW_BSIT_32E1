@@ -1,0 +1,12 @@
+﻿@model List<Pokemon.Models.pokemon>
+
+<h2>Pokemon List</h2>
+
+<ul>
+    @foreach (var pokemon in Model)
+    {
+        <li>
+            <a href="@Url.Action("Details", "Pokemon", new { name = pokemon.Name })">@pokemon.Name</a>
+        </li>
+    }
+</ul>
