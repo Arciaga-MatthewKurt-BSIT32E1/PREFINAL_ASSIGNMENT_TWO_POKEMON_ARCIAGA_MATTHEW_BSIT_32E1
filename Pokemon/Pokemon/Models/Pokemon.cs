@@ -2,7 +2,7 @@
 
 namespace Pokemon.Models
 {
-    public class Pokemon
+    public class pokemon
     {
         public string Name { get; set; }
         public List<string> Abilities { get; set; }

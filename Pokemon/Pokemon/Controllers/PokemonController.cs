@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Pokemon.Controllers
 {
+
     public class PokemonController : Controller
     {
         private readonly HttpClient _httpClient;
@@ -26,7 +27,7 @@ namespace Pokemon.Controllers
             var json = JObject.Parse(content);
 
             var results = json["results"].ToObject<List<JObject>>();
-            var pokemons = new List<Pokemon>();
+            var pokemons = new List<pokemon>();
 
             foreach (var result in results)
             {
@@ -35,7 +36,7 @@ namespace Pokemon.Controllers
                 var pokemonDetailsContent = await pokemonDetailsResponse.Content.ReadAsStringAsync();
                 var pokemonDetailsJson = JObject.Parse(pokemonDetailsContent);
 
-                var pokemon = new Pokemon
+                var pokemon = new pokemon
                 {
                     Name = name,
                     Abilities = pokemonDetailsJson["abilities"].ToObject<List<JObject>>()
@@ -55,7 +56,7 @@ namespace Pokemon.Controllers
             var content = await response.Content.ReadAsStringAsync();
             var json = JObject.Parse(content);
 
-            var pokemon = new Pokemon
+            var pokemon = new pokemon
             {
                 Name = json["name"].ToString(),
                 Abilities = json["abilities"].ToObject<List<JObject>>()
