@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B39A0513-5B95-4297-A9D1-B3E9B9CFBDF4}|Pokemon\\Pokemon.csproj|c:\\users\\mkurt\\documents\\github\\prefinal_assignment_two_pokemon_arciaga_matthew_bsit_32e1\\pokemon\\pokemon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B39A0513-5B95-4297-A9D1-B3E9B9CFBDF4}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B39A0513-5B95-4297-A9D1-B3E9B9CFBDF4}|Pokemon\\Pokemon.csproj|C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\pokemon\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B39A0513-5B95-4297-A9D1-B3E9B9CFBDF4}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Pokemon\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "Pokemon\\wwwroot\\css\\site.css*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-31T16:04:14.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\Program.cs",
               "RelativeDocumentMoniker": "Pokemon\\Program.cs",
@@ -63,12 +80,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\Views\\Pokemon\\Index.cshtml",
               "RelativeDocumentMoniker": "Pokemon\\Views\\Pokemon\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\Views\\Pokemon\\Index.cshtml*",
-              "RelativeToolTip": "Pokemon\\Views\\Pokemon\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\Views\\Pokemon\\Index.cshtml",
+              "RelativeToolTip": "Pokemon\\Views\\Pokemon\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-31T15:30:33.267Z",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\Views\\Pokemon\\Details.cshtml",
               "RelativeDocumentMoniker": "Pokemon\\Views\\Pokemon\\Details.cshtml",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "pokemon.cs",
               "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\Models\\pokemon.cs",
               "RelativeDocumentMoniker": "Pokemon\\Models\\pokemon.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PokemonController.cs",
               "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARCIAGA_MATTHEW_BSIT_32E1\\Pokemon\\Pokemon\\Controllers\\PokemonController.cs",
               "RelativeDocumentMoniker": "Pokemon\\Controllers\\PokemonController.cs",
